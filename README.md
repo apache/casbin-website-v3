@@ -87,8 +87,6 @@ If you find any issues or have suggestions, please open an issue on our [GitHub 
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-**Note**: This project uses [semantic-release](https://github.com/semantic-release/semantic-release) for automated version management and package publishing. Please use conventional commit messages (e.g., `feat:`, `fix:`, `docs:`) for your commits.
-
 ## Learn More
 
 To learn more about Next.js and Fumadocs, take a look at the following resources:
